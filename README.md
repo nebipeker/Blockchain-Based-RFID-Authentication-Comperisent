@@ -15,8 +15,8 @@ To install this project, simply clone the repository and navigate to the folder 
 
 ```bash
 git clone https://github.com/nebipeker/Blockchain-Based-RFID-Authentication-Comperisent.git
-cd repo
-cd [nfc, blockchain, or web]
+cd Blockchain-Based-RFID-Authentication-Comperisent
+cd [rfid, blockchain, or web]
 ```
 ## Usage
 
